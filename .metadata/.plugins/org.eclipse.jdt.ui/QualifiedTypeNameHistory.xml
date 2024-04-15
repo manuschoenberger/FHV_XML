@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="antlr.collections.List"/>
+    <fullyQualifiedTypeName name="perspro.model.Project"/>
+    <fullyQualifiedTypeName name="java.beans.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="perspro.facade.DatabaseFacade"/>
+    <fullyQualifiedTypeName name="perspro.facade.Facade"/>
+    <fullyQualifiedTypeName name="perspro.model.Person"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="perspro.model.Department"/>
+    <fullyQualifiedTypeName name="perspro.jdbc.broker.BrokerBase"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="exercise.model.Employee"/>
+    <fullyQualifiedTypeName name="exercise.model.Order_Detail"/>
+    <fullyQualifiedTypeName name="exercise.model.Categorie"/>
+    <fullyQualifiedTypeName name="exercise.model.Supplier"/>
+    <fullyQualifiedTypeName name="exercise.model.Product"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.EntityManagerFactory"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="seminar.jdbc.broker.PersonBroker"/>
+    <fullyQualifiedTypeName name="seminar.model.Person"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
+    <fullyQualifiedTypeName name="javax.persistence.Persistence"/>
+    <fullyQualifiedTypeName name="exercise.model.Customer"/>
+    <fullyQualifiedTypeName name="exercise.model.Orders"/>
+    <fullyQualifiedTypeName name="exercise.model.Shipper"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="exercise.jpa.broker.CustomerBrokerJPA"/>
+    <fullyQualifiedTypeName name="exercise.jpa.broker.ShipperBrokerJPA"/>
+    <fullyQualifiedTypeName name="javax.persistence.Query"/>
+</qualifiedTypeNameHistroy>

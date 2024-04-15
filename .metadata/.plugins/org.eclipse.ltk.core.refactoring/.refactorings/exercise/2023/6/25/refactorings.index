@@ -1,0 +1,9 @@
+1687335153178	Rename package 'exercise.facade'
+1687336207322	Rename field 'titleOfCcourtesy'
+1687340045163	Rename type 'BrokerBase'
+1687340060728	Rename type 'CustomerBroker'
+1687340076438	Rename type 'CustomerBroker'
+1687340100387	Rename type 'OrdersBroker'
+1687341865373	Rename type 'JDBCDatabaseFacade'
+1687426443061	Delete element
+1687700481686	Rename local variable 'customerID'
